@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: depthwise-conv3d
+Version: 1.0.3
+Summary: cuda implementation of 3d depthwise convolution
+Home-page: https://www.github.com
+Author: gungui98
+Author-email: phi.nguyen.uet@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: pytorch,cuda,depthwise convolution
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6

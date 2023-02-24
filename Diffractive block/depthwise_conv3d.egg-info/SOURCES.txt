@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+depthwise_conv3d.py
+setup.cfg
+setup.py
+depthwise_conv3d.egg-info/PKG-INFO
+depthwise_conv3d.egg-info/SOURCES.txt
+depthwise_conv3d.egg-info/dependency_links.txt
+depthwise_conv3d.egg-info/not-zip-safe
+depthwise_conv3d.egg-info/requires.txt
+depthwise_conv3d.egg-info/top_level.txt
+src/deformable_conv.cu
+src/warp.cpp
